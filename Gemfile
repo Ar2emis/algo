@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'gruff', '~> 0.14.0'
+gem 'numpy', '~> 0.4.0'
 gem 'rmagick', '~> 4.2.2'
 
 group :development do
